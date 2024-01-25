@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm eliseo Orellana</h1>
+<h1 align="center">Hi 👋, I'm Eliseo Orellana</h1>
 <h3 align="center">Programmer analyst and a passionate backend developer from Chile</h3>
 
 - 👨‍💻 All of my projects are available at [https://eliseoorellana.github.io/](https://eliseoorellana.github.io/)
