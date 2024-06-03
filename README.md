@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eliseo Orellana and I'm a Programmer analyst and a passionate backend developer from Chile.</h2>
+<h2 align="left">Hi 👋! My name is Eliseo Orellana and I'm a Programmer analyst and a passionate developer from Chile.</h2>
 
 ###
 
